@@ -17,3 +17,5 @@ These games are based around writing efficient AI in a limited environment.
   ([Steam](http://store.steampowered.com/app/92800/))
 - [Manufactoria](http://pleasingfungus.com/Manufactoria/)
   ([Kongregate](http://www.kongregate.com/games/PleasingFungus/manufactoria))
+- [Jahooma's LogicBox](http://jahooma.com/)
+  ([Kongregate](http://www.kongregate.com/games/jahooma/jahoomas-logicbox))
